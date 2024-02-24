@@ -1,0 +1,53 @@
+﻿  Mathf.cpp
+  Program.cpp
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(43,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(43,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(47,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(47,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(55,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(56,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(51,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(63,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(63,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(67,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(67,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(72,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(72,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(73,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(73,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(71,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(84,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(80,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(92,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(92,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(88,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(96,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(103,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(103,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(104,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(104,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(98,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(122,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(122,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(125,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(125,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(128,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Transitions.h(128,38): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Time.cpp
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Time.cpp(34,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Time.cpp(39,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Time.cpp(43,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Vector2.cpp(19,12): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Новая папка\Users\Admin\source\repos\Infinity Core\Vector2.cpp(20,12): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Vector3.cpp
+  Generating Code...
+  Infinity Core.vcxproj -> D:\Новая папка\Users\Admin\source\repos\Infinity Core\x64\Debug\Infinity Core.exe
